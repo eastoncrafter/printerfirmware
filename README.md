@@ -11,3 +11,9 @@ My personal collection of marlin based firmwares, mainly customized for the geee
 Marlin-2.0.9.5-pro-c  
 So far just downloaded the 2.0.9.5 release.  
 Added example configs for geeetech pro c
+
+#
+
+Marlin-2.0.9.5-pro-c-3dtouch  
+Branched off from Marlin-2.0.9.5-pro-c
+So far has everything Marlin-2.0.9.5-pro-c has, but has plans to include configurations for 3d touch

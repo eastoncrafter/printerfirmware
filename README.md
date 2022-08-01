@@ -6,4 +6,7 @@ My personal collection of marlin based firmwares, mainly customized for the geee
 ### Config files can be found at this repository: https://github.com/MarlinFirmware/Configurations
 
 
-##
+#
+
+Marlin-2.0.9.5
+So far just downloaded the 2.0.9.5 release. I have not yet replaced the configs for my geeetech.

@@ -17,3 +17,7 @@ Added example configs for geeetech pro c
 Marlin-2.0.9.5-pro-c-3dtouch  
 Branched off from Marlin-2.0.9.5-pro-c
 So far has everything Marlin-2.0.9.5-pro-c has, but has plans to include configurations for 3d touch
+
+## Marlin-2.0.9.5-pro-c-3dtouch-dev
+Branched off from Marlin-2.0.9.5-pro-c-3dtouch
+Is the edge version, may have errors. Latest changes are staged here then merged up the chain.
